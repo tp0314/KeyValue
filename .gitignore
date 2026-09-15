@@ -1,0 +1,7 @@
+build/
+*.wal
+*.log
+compile_commands.json
+*.exe
+*.o
+*.obj
